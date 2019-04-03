@@ -1,0 +1,15 @@
+D/com.example.assignment05.MainActivity: click: please work 
+    jim
+D/com.example.assignment05.TopFragment: onAttach: 
+    onCreate: 
+    onCreateView: 
+D/com.example.assignment05.TopFragment: Top Input Message == jim
+    New Top Message == jim
+D/com.example.assignment05.TopFragment: onActivityCreated: 
+    onStart: 
+    onResume: 
+I/AssistStructure: Flattened final assist data: 14940 bytes, containing 1 windows, 66 views
+D/com.example.assignment05.TopFragment: click2: 
+    Bottom Input Message == go
+    New Bottom Message == go
+Application terminated.

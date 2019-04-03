@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment04</string>
+    <string name="red">Red</string>
+    <string name="bold">Bold</string>
+    <string name="italic">Italic</string>
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="text_color">Text Color</string>
+    <string name="underline">Underline</string>
+    <string name="text_style">Text Style</string>
+    <string name="_0_sp">0 sp</string>
+    <string name="text_size">Text Size</string>
+    <string name="todo">TODO</string>
+    <string name="text_to_be_changed">Text to be changed</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_font">Change Font</string>
+
+</resources>

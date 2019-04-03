@@ -1,0 +1,12 @@
+
+D/com.example.assignment3.LoggingLifecycleActivity: onCreate()
+D/com.example.assignment3.LoggingLifecycleActivity: onStart()
+D/com.example.assignment3.LoggingLifecycleActivity: onResume()
+
+D/com.example.assignment3.LoggingLifecycleActivity: onPause()
+
+D/com.example.assignment3.LoggingLifecycleActivity: onStop()
+D/com.example.assignment3.LoggingLifecycleActivity: onStart()
+D/com.example.assignment3.LoggingLifecycleActivity: onResume()
+
+Application terminated.
